@@ -26,8 +26,7 @@ public class TestCases {
     //get the user directory
     String userDir = System.getProperty("user.dir");
 
-    // create an arraylist of hashmap
-    ArrayList<HashMap<String, Object>> list = new ArrayList<>();
+    
 
     @BeforeClass
     public void setup() {
@@ -52,6 +51,9 @@ public class TestCases {
         Boolean testflow01 = SeleniumWrapper.click_WebScraper(hockeyElement, driver);
         Assert.assertEquals(testflow01, true, "Hockey Teams: Forms, Searching and Pagination link is not clicked");
         
+
+        // create an arraylist of hashmap
+        ArrayList<HashMap<String, Object>> list = new ArrayList<>();
 
         // for loop to iterate through 4 pages
         for (int k = 1; k <= 4; k++) {
@@ -128,6 +130,8 @@ public class TestCases {
 
         List<WebElement> years = SeleniumWrapper.findElements_WebScraper(By.xpath("//div[@class='col-md-12 text-center']/a"), driver);
         
+        // create an arraylist of hashmap
+        ArrayList<HashMap<String, Object>> list = new ArrayList<>();
         // click on every year displayed on the screen and collect the data
         for(WebElement year : years){
        if(year.isEnabled()){   

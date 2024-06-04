@@ -20,7 +20,7 @@ public class TestCases {
 
     ChromeDriver driver;
 
-    //creating an object of object mapper class
+    //creating an object of objectMapper class
     ObjectMapper mapper = new ObjectMapper();
 
     //get the user directory
@@ -69,11 +69,12 @@ public class TestCases {
 
             // store wins, years, names in a list of webElement
                 List<WebElement> win = SeleniumWrapper
-                        .findElements_WebScraper(By.xpath("//section[contains(@id,'hockey')]//td[6]"), driver);
+                        .findElements_WebScraper(By.xpath("//table[@class='table']/tbody/tr/child::td[contains(@class,'pct text-')]"), driver);
+
                 List<WebElement> year = SeleniumWrapper.findElements_WebScraper(
-                        By.xpath("//section[contains(@id,'hockey')]//td[6]/preceding-sibling::td[4]"), driver);
+                        By.xpath("//table[@class='table']/tbody/tr/child::td[@class='year']"), driver);
                 List<WebElement> name = SeleniumWrapper.findElements_WebScraper(
-                        By.xpath("//section[contains(@id,'hockey')]//td[6]/preceding-sibling::td[5]"), driver);
+                        By.xpath("//table[@class='table']/tbody/tr/child::td[@class='name']"), driver);
 
                 //Using for loop collect the text of win, year and name
                 for (int i = 0; i < win.size(); i++) {
@@ -113,11 +114,12 @@ public class TestCases {
         // Checking the file contains text or not 
         Boolean fileTextPresent = SeleniumWrapper.fileisEmptyorNot(filename);
         Assert.assertEquals(fileTextPresent, true, "File not exists");
+        System.out.println("End Test case: Testcase01");
     }
 
     @Test
     public void testcase02() throws InterruptedException {
-        System.out.println("Start Test case: Testcase01");
+        System.out.println("Start Test case: Testcase02");
 
         // get the url
         driver.get("https://www.scrapethissite.com/pages/");
@@ -145,10 +147,11 @@ public class TestCases {
         List<WebElement> titles = SeleniumWrapper.findElements_WebScraper(By.xpath("//tbody[@id='table-body']/tr/child::td[@class='film-title']"), driver);
         List<WebElement> nominations = SeleniumWrapper.findElements_WebScraper(By.xpath("//tbody[@id='table-body']/tr/child::td[@class='film-nominations']"), driver);
         List<WebElement> awards = SeleniumWrapper.findElements_WebScraper(By.xpath("//tbody[@id='table-body']/tr/child::td[@class='film-awards']"), driver);
-         WebElement activeYear = SeleniumWrapper.findElement_WebScraper(By.xpath("//a[@class='year-link active']"), driver);
-
+        WebElement activeYear = SeleniumWrapper.findElement_WebScraper(By.xpath("//a[@class='year-link active']"), driver);
+        List<WebElement> bestPictures = SeleniumWrapper.findElements_WebScraper(By.xpath("//tbody[@id='table-body']/tr/child::td[@class='film-best-picture']/i"), driver);
+        
         //Using for loop collect the text of win, year and name         
-        for (int i = 0; i < titles.size(); i++) {
+        for (int i = 0; i < 5; i++) {
           HashMap<String, Object> obj = new HashMap<>();
           String titleText = titles.get(i).getText();
           String nominationText = nominations.get(i).getText();
@@ -158,11 +161,13 @@ public class TestCases {
 
         //First title in every page is a best picuture
         //declare a variable isWinner and assign true for it 
-          Boolean isWinner;
-          if(i==0){
+          Boolean isWinner = false;
+        try{
+          if(bestPictures.get(i).isDisplayed()){
                isWinner = true;
           }
-          else{
+        }
+          catch(Exception e){
                isWinner = false;
           }
           //adding values to the hashmap
@@ -194,6 +199,7 @@ public class TestCases {
         //  // Checking the file contains text or not 
         Boolean fileTextPresent = SeleniumWrapper.fileisEmptyorNot(filename);
         Assert.assertEquals(fileTextPresent, true, "File is Empty");
+        System.out.println("End Test case: Testcase02");
     }
     @AfterClass
     public void endTest() {

@@ -4,607 +4,208 @@
   "Year" : "2015",
   "BestPicture" : true,
   "Title" : "Spotlight",
-  "Epoch" : "1717506470696"
+  "Epoch" : "1717526301696"
 }, {
   "Nominations" : "10",
   "Awards" : "6",
   "Year" : "2015",
   "BestPicture" : false,
   "Title" : "Mad Max: Fury Road",
-  "Epoch" : "1717506470734"
+  "Epoch" : "1717526301756"
 }, {
   "Nominations" : "12",
   "Awards" : "3",
   "Year" : "2015",
   "BestPicture" : false,
   "Title" : "The Revenant",
-  "Epoch" : "1717506470771"
+  "Epoch" : "1717526301795"
 }, {
   "Nominations" : "6",
   "Awards" : "1",
   "Year" : "2015",
   "BestPicture" : false,
   "Title" : "Bridge of Spies",
-  "Epoch" : "1717506470807"
+  "Epoch" : "1717526301830"
 }, {
   "Nominations" : "5",
   "Awards" : "1",
   "Year" : "2015",
   "BestPicture" : false,
   "Title" : "The Big Short",
-  "Epoch" : "1717506470845"
-}, {
-  "Nominations" : "4",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "The Danish Girl",
-  "Epoch" : "1717506470881"
-}, {
-  "Nominations" : "4",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Room",
-  "Epoch" : "1717506470918"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Ex Machina",
-  "Epoch" : "1717506470954"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "The Hateful Eight",
-  "Epoch" : "1717506470987"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Inside Out",
-  "Epoch" : "1717506471020"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Amy",
-  "Epoch" : "1717506471056"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Bear Story",
-  "Epoch" : "1717506471088"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "A Girl in the River: The Price of Forgiveness",
-  "Epoch" : "1717506471122"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Son of Saul",
-  "Epoch" : "1717506471153"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Spectre",
-  "Epoch" : "1717506471183"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2015",
-  "BestPicture" : false,
-  "Title" : "Stutterer",
-  "Epoch" : "1717506471212"
+  "Epoch" : "1717526301865"
 }, {
   "Nominations" : "9",
   "Awards" : "4",
   "Year" : "2014",
   "BestPicture" : true,
   "Title" : "Birdman",
-  "Epoch" : "1717506474385"
+  "Epoch" : "1717526305036"
 }, {
   "Nominations" : "9",
   "Awards" : "4",
   "Year" : "2014",
   "BestPicture" : false,
   "Title" : "The Grand Budapest Hotel",
-  "Epoch" : "1717506474422"
+  "Epoch" : "1717526305085"
 }, {
   "Nominations" : "5",
   "Awards" : "3",
   "Year" : "2014",
   "BestPicture" : false,
   "Title" : "Whiplash",
-  "Epoch" : "1717506474464"
+  "Epoch" : "1717526305121"
 }, {
   "Nominations" : "8",
   "Awards" : "1",
   "Year" : "2014",
   "BestPicture" : false,
   "Title" : "The Imitation Game",
-  "Epoch" : "1717506474513"
+  "Epoch" : "1717526305155"
 }, {
   "Nominations" : "6",
   "Awards" : "1",
   "Year" : "2014",
   "BestPicture" : false,
   "Title" : "American Sniper",
-  "Epoch" : "1717506474550"
-}, {
-  "Nominations" : "6",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Boyhood",
-  "Epoch" : "1717506474583"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Interstellar",
-  "Epoch" : "1717506474619"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "The Theory of Everything",
-  "Epoch" : "1717506474653"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Ida",
-  "Epoch" : "1717506474688"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Selma",
-  "Epoch" : "1717506474726"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Citizenfour",
-  "Epoch" : "1717506474759"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Big Hero 6",
-  "Epoch" : "1717506474793"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Crisis Hotline: Veterans Press 1",
-  "Epoch" : "1717506474827"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "The Phone Call",
-  "Epoch" : "1717506474862"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Still Alice",
-  "Epoch" : "1717506474894"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2014",
-  "BestPicture" : false,
-  "Title" : "Feast",
-  "Epoch" : "1717506474929"
+  "Epoch" : "1717526305189"
 }, {
   "Nominations" : "9",
   "Awards" : "3",
   "Year" : "2013",
   "BestPicture" : true,
   "Title" : "12 Years a Slave",
-  "Epoch" : "1717506478116"
+  "Epoch" : "1717526308371"
 }, {
   "Nominations" : "10",
   "Awards" : "7",
   "Year" : "2013",
   "BestPicture" : false,
   "Title" : "Gravity",
-  "Epoch" : "1717506478154"
+  "Epoch" : "1717526308412"
 }, {
   "Nominations" : "6",
   "Awards" : "3",
   "Year" : "2013",
   "BestPicture" : false,
   "Title" : "Dallas Buyers Club",
-  "Epoch" : "1717506478202"
+  "Epoch" : "1717526308445"
 }, {
   "Nominations" : "2",
   "Awards" : "2",
   "Year" : "2013",
   "BestPicture" : false,
   "Title" : "Frozen",
-  "Epoch" : "1717506478244"
+  "Epoch" : "1717526308476"
 }, {
   "Nominations" : "2",
   "Awards" : "2",
   "Year" : "2013",
   "BestPicture" : false,
   "Title" : "The Great Gatsby",
-  "Epoch" : "1717506478294"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "Her",
-  "Epoch" : "1717506478332"
-}, {
-  "Nominations" : "3",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "Blue Jasmine",
-  "Epoch" : "1717506478374"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "Mr Hublot",
-  "Epoch" : "1717506478416"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "The Lady in Number 6: Music Saved My Life",
-  "Epoch" : "1717506478455"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "Helium",
-  "Epoch" : "1717506478495"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "The Great Beauty",
-  "Epoch" : "1717506478556"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2013",
-  "BestPicture" : false,
-  "Title" : "20 Feet from Stardom",
-  "Epoch" : "1717506478601"
+  "Epoch" : "1717526308512"
 }, {
   "Nominations" : "7",
   "Awards" : "3",
   "Year" : "2012",
   "BestPicture" : true,
   "Title" : "Argo",
-  "Epoch" : "1717506481754"
+  "Epoch" : "1717526311678"
 }, {
   "Nominations" : "11",
   "Awards" : "4",
   "Year" : "2012",
   "BestPicture" : false,
   "Title" : "Life of Pi",
-  "Epoch" : "1717506481778"
+  "Epoch" : "1717526311720"
 }, {
   "Nominations" : "8",
   "Awards" : "3",
   "Year" : "2012",
   "BestPicture" : false,
   "Title" : "Les Misérables",
-  "Epoch" : "1717506481805"
+  "Epoch" : "1717526311750"
 }, {
   "Nominations" : "12",
   "Awards" : "2",
   "Year" : "2012",
   "BestPicture" : false,
   "Title" : "Lincoln",
-  "Epoch" : "1717506481834"
+  "Epoch" : "1717526311791"
 }, {
   "Nominations" : "5",
   "Awards" : "2",
   "Year" : "2012",
   "BestPicture" : false,
   "Title" : "Django Unchained",
-  "Epoch" : "1717506481860"
-}, {
-  "Nominations" : "5",
-  "Awards" : "2",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Skyfall",
-  "Epoch" : "1717506481886"
-}, {
-  "Nominations" : "8",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Silver Linings Playbook",
-  "Epoch" : "1717506481913"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Zero Dark Thirty",
-  "Epoch" : "1717506481939"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Amour",
-  "Epoch" : "1717506481968"
-}, {
-  "Nominations" : "4",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Anna Karenina",
-  "Epoch" : "1717506481994"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Paperman",
-  "Epoch" : "1717506482017"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Brave",
-  "Epoch" : "1717506482044"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Searching for Sugar Man",
-  "Epoch" : "1717506482071"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Inocente",
-  "Epoch" : "1717506482096"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2012",
-  "BestPicture" : false,
-  "Title" : "Curfew",
-  "Epoch" : "1717506482123"
+  "Epoch" : "1717526311828"
 }, {
   "Nominations" : "10",
   "Awards" : "5",
   "Year" : "2011",
   "BestPicture" : true,
   "Title" : "The Artist",
-  "Epoch" : "1717506485273"
+  "Epoch" : "1717526315007"
 }, {
   "Nominations" : "11",
   "Awards" : "5",
   "Year" : "2011",
   "BestPicture" : false,
   "Title" : "Hugo",
-  "Epoch" : "1717506485307"
+  "Epoch" : "1717526315053"
 }, {
   "Nominations" : "2",
   "Awards" : "2",
   "Year" : "2011",
   "BestPicture" : false,
   "Title" : "The Iron Lady",
-  "Epoch" : "1717506485339"
+  "Epoch" : "1717526315085"
 }, {
   "Nominations" : "5",
   "Awards" : "1",
   "Year" : "2011",
   "BestPicture" : false,
   "Title" : "The Descendants",
-  "Epoch" : "1717506485356"
+  "Epoch" : "1717526315117"
 }, {
   "Nominations" : "5",
   "Awards" : "1",
   "Year" : "2011",
   "BestPicture" : false,
   "Title" : "The Girl with the Dragon Tattoo",
-  "Epoch" : "1717506485397"
-}, {
-  "Nominations" : "4",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "Midnight in Paris",
-  "Epoch" : "1717506485418"
-}, {
-  "Nominations" : "4",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "The Help",
-  "Epoch" : "1717506485465"
-}, {
-  "Nominations" : "2",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "A Separation",
-  "Epoch" : "1717506485498"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "The Fantastic Flying Books of Mr. Morris Lessmore",
-  "Epoch" : "1717506485530"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "The Shore",
-  "Epoch" : "1717506485567"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "Undefeated",
-  "Epoch" : "1717506485610"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "The Muppets",
-  "Epoch" : "1717506485652"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "Saving Face",
-  "Epoch" : "1717506485687"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "Beginners",
-  "Epoch" : "1717506485723"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2011",
-  "BestPicture" : false,
-  "Title" : "Rango",
-  "Epoch" : "1717506485756"
+  "Epoch" : "1717526315147"
 }, {
   "Nominations" : "12",
   "Awards" : "4",
   "Year" : "2010",
   "BestPicture" : true,
   "Title" : "The King's Speech",
-  "Epoch" : "1717506488905"
+  "Epoch" : "1717526318319"
 }, {
   "Nominations" : "8",
   "Awards" : "4",
   "Year" : "2010",
   "BestPicture" : false,
   "Title" : "Inception",
-  "Epoch" : "1717506488936"
+  "Epoch" : "1717526318359"
 }, {
   "Nominations" : "8",
   "Awards" : "3",
   "Year" : "2010",
   "BestPicture" : false,
   "Title" : "The Social Network",
-  "Epoch" : "1717506488967"
+  "Epoch" : "1717526318389"
 }, {
   "Nominations" : "7",
   "Awards" : "2",
   "Year" : "2010",
   "BestPicture" : false,
   "Title" : "The Fighter",
-  "Epoch" : "1717506489000"
+  "Epoch" : "1717526318421"
 }, {
   "Nominations" : "5",
   "Awards" : "2",
   "Year" : "2010",
   "BestPicture" : false,
   "Title" : "Toy Story 3",
-  "Epoch" : "1717506489044"
-}, {
-  "Nominations" : "3",
-  "Awards" : "2",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "Alice in Wonderland",
-  "Epoch" : "1717506489080"
-}, {
-  "Nominations" : "5",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "Black Swan",
-  "Epoch" : "1717506489109"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "In a Better World",
-  "Epoch" : "1717506489138"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "The Lost Thing",
-  "Epoch" : "1717506489167"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "God of Love",
-  "Epoch" : "1717506489200"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "The Wolfman",
-  "Epoch" : "1717506489230"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "Strangers No More",
-  "Epoch" : "1717506489262"
-}, {
-  "Nominations" : "1",
-  "Awards" : "1",
-  "Year" : "2010",
-  "BestPicture" : false,
-  "Title" : "Inside Job",
-  "Epoch" : "1717506489302"
+  "Epoch" : "1717526318450"
 } ]
